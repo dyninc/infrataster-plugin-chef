@@ -2,11 +2,11 @@
 # rubocop:disable Style/RegexpLiteral
 Gem::Specification.new do |spec|
   spec.name          = 'infrataster-plugin-chef'
-  spec.version       = '0.0.2'
+  spec.version       = '0.0.3'
   spec.authors       = ['Paul Thomas']
   spec.email         = ['pthomas@dyn.com']
-  spec.summary       = 'Add Chef node data to Infrataster'
-  spec.homepage      = ''
+  spec.summary       = 'Add Chef node data to Infrataster from JSON'
+  spec.homepage      = 'https://github.com/Afterglow/infrataster-plugin-chef'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
