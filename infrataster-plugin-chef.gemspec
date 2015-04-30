@@ -2,7 +2,7 @@
 # rubocop:disable Style/RegexpLiteral
 Gem::Specification.new do |spec|
   spec.name          = 'infrataster-plugin-chef'
-  spec.version       = '0.0.3'
+  spec.version       = '0.0.4'
   spec.authors       = ['Paul Thomas']
   spec.email         = ['pthomas@dyn.com']
   spec.summary       = 'Add Chef node data to Infrataster from JSON'
